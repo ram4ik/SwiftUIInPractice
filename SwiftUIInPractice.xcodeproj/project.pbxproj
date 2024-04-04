@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5E49729D2BBEE7BD007730F4 /* BumbleProfileImageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49729C2BBEE7BD007730F4 /* BumbleProfileImageCell.swift */; };
+		5E49729F2BBEEB1F007730F4 /* BumbleChatPreviewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49729E2BBEEB1F007730F4 /* BumbleChatPreviewCell.swift */; };
 		5EC8FF1E2BBC638B00740050 /* BumbleCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC8FF1D2BBC638B00740050 /* BumbleCardView.swift */; };
 		5EC8FF202BBC67A200740050 /* BumbleHeartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC8FF1F2BBC67A200740050 /* BumbleHeartView.swift */; };
 		5EC8FF222BBC7B2700740050 /* InterestPillView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC8FF212BBC7B2700740050 /* InterestPillView.swift */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		5E49729C2BBEE7BD007730F4 /* BumbleProfileImageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BumbleProfileImageCell.swift; sourceTree = "<group>"; };
+		5E49729E2BBEEB1F007730F4 /* BumbleChatPreviewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BumbleChatPreviewCell.swift; sourceTree = "<group>"; };
 		5EC8FF1D2BBC638B00740050 /* BumbleCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BumbleCardView.swift; sourceTree = "<group>"; };
 		5EC8FF1F2BBC67A200740050 /* BumbleHeartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BumbleHeartView.swift; sourceTree = "<group>"; };
 		5EC8FF212BBC7B2700740050 /* InterestPillView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterestPillView.swift; sourceTree = "<group>"; };
@@ -193,6 +195,7 @@
 				5EC8FF212BBC7B2700740050 /* InterestPillView.swift */,
 				5EC8FF232BBC7D8A00740050 /* InterestPillGridView.swift */,
 				5E49729C2BBEE7BD007730F4 /* BumbleProfileImageCell.swift */,
+				5E49729E2BBEEB1F007730F4 /* BumbleChatPreviewCell.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -300,6 +303,7 @@
 				5EFC6DAD2BB6FD3E004951EC /* ImageTitleRowCell.swift in Sources */,
 				5EFC6D692BB34350004951EC /* ContentView.swift in Sources */,
 				5EFC6D672BB34350004951EC /* SwiftUIInPracticeApp.swift in Sources */,
+				5E49729F2BBEEB1F007730F4 /* BumbleChatPreviewCell.swift in Sources */,
 				5EFC6D812BB344FB004951EC /* Constants.swift in Sources */,
 				5EFC6DA92BB5EE4C004951EC /* SpotifyRecentsCell.swift in Sources */,
 				5EFC6D852BB34D21004951EC /* Product.swift in Sources */,
