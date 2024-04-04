@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E49729D2BBEE7BD007730F4 /* BumbleProfileImageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E49729C2BBEE7BD007730F4 /* BumbleProfileImageCell.swift */; };
 		5EC8FF1E2BBC638B00740050 /* BumbleCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC8FF1D2BBC638B00740050 /* BumbleCardView.swift */; };
 		5EC8FF202BBC67A200740050 /* BumbleHeartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC8FF1F2BBC67A200740050 /* BumbleHeartView.swift */; };
 		5EC8FF222BBC7B2700740050 /* InterestPillView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC8FF212BBC7B2700740050 /* InterestPillView.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5E49729C2BBEE7BD007730F4 /* BumbleProfileImageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BumbleProfileImageCell.swift; sourceTree = "<group>"; };
 		5EC8FF1D2BBC638B00740050 /* BumbleCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BumbleCardView.swift; sourceTree = "<group>"; };
 		5EC8FF1F2BBC67A200740050 /* BumbleHeartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BumbleHeartView.swift; sourceTree = "<group>"; };
 		5EC8FF212BBC7B2700740050 /* InterestPillView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterestPillView.swift; sourceTree = "<group>"; };
@@ -190,6 +192,7 @@
 				5EC8FF1F2BBC67A200740050 /* BumbleHeartView.swift */,
 				5EC8FF212BBC7B2700740050 /* InterestPillView.swift */,
 				5EC8FF232BBC7D8A00740050 /* InterestPillGridView.swift */,
+				5E49729C2BBEE7BD007730F4 /* BumbleProfileImageCell.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -300,6 +303,7 @@
 				5EFC6D812BB344FB004951EC /* Constants.swift in Sources */,
 				5EFC6DA92BB5EE4C004951EC /* SpotifyRecentsCell.swift in Sources */,
 				5EFC6D852BB34D21004951EC /* Product.swift in Sources */,
+				5E49729D2BBEE7BD007730F4 /* BumbleProfileImageCell.swift in Sources */,
 				5EFC6E0E2BBB1620004951EC /* BumbleFilterView.swift in Sources */,
 				5EFC6E072BB9AE41004951EC /* SongRowCell.swift in Sources */,
 				5EC8FF202BBC67A200740050 /* BumbleHeartView.swift in Sources */,
