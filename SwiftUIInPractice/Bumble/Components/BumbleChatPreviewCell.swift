@@ -8,15 +8,15 @@
 import SwiftUI
 
 struct BumbleChatPreviewCell: View {
+    
+    var imageName: String = Constants.randomImage
+    var percentageRemaining: Double = Double.random(in: 0...1)
+    var hasNewMessage: Bool = true
+    var userName: String = "SwiftUI"
+    var lastChatMessage: String? = "This is the last message."
+    var isYourMode: Bool = true
+    
     var body: some View {
-        
-        var imageName: String = Constants.randomImage
-        var percentageRemaining: Double = Double.random(in: 0...1)
-        var hasNewMessage: Bool = true
-        var userName: String = "SwiftUI"
-        var lastChatMessage: String? = "This is the last message."
-        var isYourMode: Bool = true
-        
         HStack(spacing: 16) {
             BumbleProfileImageCell(
                 imageName: imageName,
