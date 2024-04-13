@@ -58,7 +58,6 @@ struct NetflixDetailsHeaderView: View {
             .fontWeight(.bold)
             .padding(8)
             .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topTrailing)
-            .background(Color.blue)
         }
         .aspectRatio(2, contentMode: .fit)
     }
